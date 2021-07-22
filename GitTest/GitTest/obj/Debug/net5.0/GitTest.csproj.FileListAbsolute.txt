@@ -1,0 +1,15 @@
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/bin/Debug/net5.0/GitTest.deps.json
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/bin/Debug/net5.0/GitTest.runtimeconfig.json
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/bin/Debug/net5.0/GitTest.runtimeconfig.dev.json
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/bin/Debug/net5.0/GitTest.dll
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/bin/Debug/net5.0/ref/GitTest.dll
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/bin/Debug/net5.0/GitTest.pdb
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.csproj.AssemblyReference.cache
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.AssemblyInfoInputs.cache
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.AssemblyInfo.cs
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.csproj.CoreCompileInputs.cache
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.dll
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/ref/GitTest.dll
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.pdb
+/Users/alexanderchuvakov/Desktop/GIT/FirstRepository/GitTest/GitTest/obj/Debug/net5.0/GitTest.genruntimeconfig.cache
